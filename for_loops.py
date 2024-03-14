@@ -1,6 +1,5 @@
 for item in "Foxh":
     print(item)
-
 for item in ["Foxh", "Mwau", "Boniface"]:
     print(item)
 
