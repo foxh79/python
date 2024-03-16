@@ -7,5 +7,9 @@ if good_credit or has_high_income:
 else:
     print("Sorry, you don't qualify for a loan")
 
-
-
+#logical operator and
+if good_credit and has_high_income:
+    print("You get the loan!")
+else:
+    print("sorry, you dont qualify for a loan")
+    
