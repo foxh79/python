@@ -1,3 +1,4 @@
+#first python code
 import math 
 my_name = "Foxh Mwau"
 print(my_name)
