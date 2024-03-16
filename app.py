@@ -1,6 +1,8 @@
 #first python code
 import math 
-my_name = "Foxh Mwau"
+
+#input from the console
+my_name = input("Foxh Mwau")
 print(my_name)
 
 good_credit = True
