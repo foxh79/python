@@ -1,3 +1,4 @@
+#initialise command with an empty string
 command = ""
 
 while True:
