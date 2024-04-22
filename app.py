@@ -1,4 +1,3 @@
-
 #first python code
 import math 
 
