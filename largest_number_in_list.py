@@ -15,6 +15,4 @@ print(f"Maximum number is {max_number}")
 
 #alternatively using the max() function
 max_number = max(numbers)
-
-# Print the maximum number
-print(f"Maximum number using math funttion is {max_number}")
+print(f"Maximum number using math function is {max_number}")
