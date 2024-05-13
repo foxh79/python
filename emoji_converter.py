@@ -1,4 +1,4 @@
-def emoji_converter(messageh):
+def emoji_converter(message):
     words = message.split(" ")
 
     emojis = {
