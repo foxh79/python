@@ -3,6 +3,7 @@ import math
 
 #input from the console
 my_name = input("Enter your name: ")
+
 print(my_name)
 
 #using math library
