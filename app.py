@@ -2,7 +2,7 @@
 import math 
 
 #input from the console
-my_name = input("Enter your name: ")
+my_name = input("Enter your real name: ")
 
 print(my_name)
 
