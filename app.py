@@ -1,4 +1,4 @@
-#first python code
+#my first python code
 import math 
 
 #input from the console
