@@ -10,6 +10,5 @@ def main():
 
     area = calculate_area(length, width)
     print(f"Area of a rectangle of length{length} and width{width} is: {area}")
-
 if __name__ == "__main__":
     main()
