@@ -1,4 +1,4 @@
-#Using functions
+#Using Python functions
 def calculate_area(length, width):
     return length * width
 
