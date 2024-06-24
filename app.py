@@ -2,9 +2,9 @@
 import math 
 
 #input from the console
-my_name = input("Enter your official name: ")
+official_name = input("Enter your official name: ")
 
-print(my_name)
+print(official_name)
 
 #using math library
 print(math.lcm(12, 4, 2))
