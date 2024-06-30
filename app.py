@@ -1,4 +1,5 @@
-#input from the name = input("Enter your official name: ")
+#input from the user
+name = input("Enter your official name: ")
 
 print(name)
 
