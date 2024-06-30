@@ -1,7 +1,6 @@
-#input from the console
-official_name = input("Enter your official name: ")
+#input from the name = input("Enter your official name: ")
 
-print(official_name)
+print(name)
 
 #using math library
 print(math.lcm(12, 4, 2))
