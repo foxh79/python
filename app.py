@@ -1,4 +1,4 @@
-#input from the user
+#first python code
 name = input("Enter your official name: ")
 
 print(name)
