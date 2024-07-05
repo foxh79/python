@@ -1,7 +1,7 @@
 #first python code
-name = input("Enter your official name: ")
+official_name = input("Enter your official name: ")
 
-print(name)
+print(official_name)
 
 #using math library
 print(math.lcm(12, 4, 2))
