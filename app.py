@@ -4,7 +4,7 @@ official_name = input("Enter your official name: ")
 print(official_name)
 
 #using math library
-print(math.lcm(12, 4, 2))
+print(math.round(12)
 
 print(math.floor(13.77))
 
