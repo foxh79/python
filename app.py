@@ -1,4 +1,4 @@
-#first python code
+#my first python code
 official_name = input("Enter your official name: ")
 
 print(official_name)
