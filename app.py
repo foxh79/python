@@ -1,7 +1,7 @@
 #first python code
-official_name = input("Enter your official name: ")
+name = input("Enter your official name: ")
 
-print(official_name)
+print(name)
 
 #using math library
 print(math.round(12)
