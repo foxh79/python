@@ -1,5 +1,6 @@
 #first python code
-name = input("Enter your name: ")
+import math
+name = input("Enter your official name: ")
 
 print(name)
 
