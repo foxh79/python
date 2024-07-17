@@ -1,5 +1,4 @@
-#first python code
-import math
+#first code
 name = input("Enter your official name: ")
 
 print(name)
@@ -11,3 +10,4 @@ print(math.floor(13.77))
 
 print(math.ceil(13.77))
 print(math.exp(770))
+      
