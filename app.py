@@ -3,7 +3,7 @@ name = input("Enter your official name: ")
 
 print(name)
 
-#using math library
+#using math library functions
 print(math.round(12)
 
 print(math.floor(13.77))
