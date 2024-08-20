@@ -1,5 +1,5 @@
 #first code
-name = input("Enter your official name: ")
+name = input("Enter your name: ")
 
 print(name)
 
@@ -10,4 +10,5 @@ print(math.floor(13.77))
 
 print(math.ceil(13.77))
 print(math.exp(770))
+
       
