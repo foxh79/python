@@ -1,5 +1,5 @@
 #first code
-name = input("Enter your to name: ")
+name = input("Enter your to official name: ")
 
 print(name)
 
