@@ -1,5 +1,5 @@
-#first code
-name = input("Enter your name: ")
+5⅝#first code
+name = input("Enter your offi8 name: ")
 
 print(name)
 
