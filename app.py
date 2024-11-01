@@ -1,4 +1,4 @@
-5⅝#first code
+#first code
 name = input("Enter your name: ")
 
 print(name)
