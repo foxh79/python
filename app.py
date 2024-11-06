@@ -1,5 +1,5 @@
 #first code
-name = input("Enter your first name: ")
+name = input("Enter your name: ")
 
 print(name)
 
