@@ -2,7 +2,7 @@
 def calculate_area(length, width):
     return length * width
 
-#main function
+#Main function
 def main():
     length = float(input("Length: "))
     width = float(input("Width: "))
