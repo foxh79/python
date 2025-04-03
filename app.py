@@ -1,6 +1,6 @@
 import math
 
-name = input("Enter your officialname: ")
+name = input("Enter your name: ")
 print(name)
 
 print(math.round(14))
